@@ -1,91 +1,59 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Sam(Zhonghao) Zhao
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
+[zzhao41@ur.rochester.edu](mailto:zzhao41@ur.rochester.edu) | 567-406-3399
 
 ## Currently
 
-Standing on the shoulders of giants
+Exploring Mirror Neuron dynamics (mentor: Marc Schieber) in University of Rochester.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Populational neuroscience, engineering
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Populational neuroscience, brain decoding.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2013-2017`
+__Zhejiang University, Hangzhou.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2017-2019`
+__University of Michigan Ann Arbor, Ann Arbor__
 
-- Sizar
+`2019-now`
+__University of Rochester, Rochester__
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Experience
 
-- Fellow
+`2017`
+__Technion, Haifa.__
 
+- Invited to visited Technion (Israel Institute of Technology) with full sponsorship
 
+`2014`
+__Singapore City, Singapore.__
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
+- Invited to visited SUTD (Singapore Univ of Technology and Design) with full sponsorship offered by Temasek and SUTD.
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+None
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2013-2017`
+__Zhejiang University, Hangzhou.__
 
-- Warden
-- Minted coins
+- TA of ICCAD, prepared scripts for waffle cutting, circuit simulation.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2017-2019`
+__University of Michigan Ann Arbor, Ann Arbor__
 
+- RA of UM Direct Brain Interface Lab, assisted research co-hosted by Prof. Huggins and Prof. Kang.
 
+`2019-now`
+  __University of Rochester, Rochester__
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+- PhD student, investigated the dynamic of Mirror Neurons.
