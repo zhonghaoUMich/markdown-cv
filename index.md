@@ -30,12 +30,12 @@ __University of Rochester, Rochester__
 `2017`
 __Technion, Haifa.__
 
-- Invited to visited Technion (Israel Institute of Technology) with full sponsorship
+- Invited to visit Technion (Israel Institute of Technology) with full sponsorship
 
 `2014`
 __Singapore City, Singapore.__
 
-- Invited to visited SUTD (Singapore Univ of Technology and Design) with full sponsorship offered by Temasek and SUTD.
+- Invited to visit SUTD (Singapore Univ of Technology and Design) with full sponsorship offered by Temasek and SUTD.
 
 ## Publications
 
